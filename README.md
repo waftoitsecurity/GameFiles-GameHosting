@@ -5,6 +5,6 @@ Download is for free!
 File : 2,73 GB (2.941.283.747 Bytes)
 
 cd /home
-&& wget https://gamedl.waf.to/allgame-mods.tar
+&& wget https://gamedl.waf.to/allgame-mods.tar.gz
 && tar -xvf allgames-mods.tar
 
