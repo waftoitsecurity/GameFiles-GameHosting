@@ -1,2 +1,3 @@
-# cs1.6-mods
-For a customer from Serbia we will make mods for cs 1.6 servers freely available and update them as required. You are welcome to support us :)
+# Game mods - StartUP Game Hosting from Serbia
+For a game hosting customer from Serbia we provide all necessary mods - CS 1.6, CSGO, SAMP, plugins and mods. The mods are updated
+Download is for free!
