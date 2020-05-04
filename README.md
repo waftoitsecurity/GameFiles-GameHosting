@@ -4,7 +4,7 @@ Download is for free!
 
 File : 2,73 GB (2.941.283.747 Bytes)
 
-Ubuntu / Debian 
+<p>Ubuntu / Debian </p>
 apt-get update && apt-get install ca-certificates curl -y
 
 cd /home
